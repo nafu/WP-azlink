@@ -1,0 +1,3 @@
+[submodule "AZlink-TinyWidget"]
+	path = AZlink-TinyWidget
+	url = git@github.com:sakuratan/AZlink-TinyWidget.git
